@@ -1,5 +1,6 @@
 # Sign In page v1.0
 This is the v1.0 for a demo Sign In page.
+
 Key features:
 * Responsive Design for all devices
 * uses SVG logo
